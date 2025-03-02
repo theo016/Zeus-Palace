@@ -1,0 +1,89 @@
+C:\Users\theod\source\repos\allhlepidrash\allhlepidrash\bin\Debug\net6.0-windows\allhlepidrash.exe
+C:\Users\theod\source\repos\allhlepidrash\allhlepidrash\bin\Debug\net6.0-windows\allhlepidrash.deps.json
+C:\Users\theod\source\repos\allhlepidrash\allhlepidrash\bin\Debug\net6.0-windows\allhlepidrash.runtimeconfig.json
+C:\Users\theod\source\repos\allhlepidrash\allhlepidrash\bin\Debug\net6.0-windows\allhlepidrash.dll
+C:\Users\theod\source\repos\allhlepidrash\allhlepidrash\bin\Debug\net6.0-windows\allhlepidrash.pdb
+C:\Users\theod\source\repos\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.csproj.AssemblyReference.cache
+C:\Users\theod\source\repos\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Form1.resources
+C:\Users\theod\source\repos\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Properties.Resources.resources
+C:\Users\theod\source\repos\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.csproj.GenerateResource.cache
+C:\Users\theod\source\repos\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theod\source\repos\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.AssemblyInfoInputs.cache
+C:\Users\theod\source\repos\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.AssemblyInfo.cs
+C:\Users\theod\source\repos\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.csproj.CoreCompileInputs.cache
+C:\Users\theod\source\repos\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.dll
+C:\Users\theod\source\repos\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\refint\allhlepidrash.dll
+C:\Users\theod\source\repos\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.pdb
+C:\Users\theod\source\repos\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.genruntimeconfig.cache
+C:\Users\theod\source\repos\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\ref\allhlepidrash.dll
+C:\Users\theod\source\repos\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Form2.resources
+C:\Users\theod\source\repos\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Form3.resources
+C:\Users\theod\source\repos\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Form4.resources
+C:\Users\theod\source\repos\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Form5.resources
+C:\Users\theod\source\repos\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Form6.resources
+C:\Users\theod\source\repos\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Form7.resources
+C:\Users\theod\source\repos\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Form10.resources
+C:\Users\theod\source\repos\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Form11.resources
+C:\Users\theod\source\repos\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Form12.resources
+C:\Users\theod\source\repos\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Form8.resources
+C:\Users\theod\source\repos\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Form9.resources
+C:\Users\theod\source\repos\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Form13.resources
+D:\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\bin\Debug\net6.0-windows\allhlepidrash.exe
+D:\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\bin\Debug\net6.0-windows\allhlepidrash.deps.json
+D:\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\bin\Debug\net6.0-windows\allhlepidrash.runtimeconfig.json
+D:\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\bin\Debug\net6.0-windows\allhlepidrash.dll
+D:\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\bin\Debug\net6.0-windows\allhlepidrash.pdb
+D:\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.csproj.AssemblyReference.cache
+D:\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Form1.resources
+D:\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Form10.resources
+D:\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Form11.resources
+D:\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Form12.resources
+D:\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Form13.resources
+D:\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Form2.resources
+D:\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Form3.resources
+D:\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Form4.resources
+D:\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Form5.resources
+D:\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Form6.resources
+D:\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Form7.resources
+D:\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Form8.resources
+D:\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Form9.resources
+D:\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Properties.Resources.resources
+D:\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.csproj.GenerateResource.cache
+D:\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.GeneratedMSBuildEditorConfig.editorconfig
+D:\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.AssemblyInfoInputs.cache
+D:\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.AssemblyInfo.cs
+D:\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.csproj.CoreCompileInputs.cache
+D:\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.dll
+D:\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\refint\allhlepidrash.dll
+D:\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.pdb
+D:\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.genruntimeconfig.cache
+D:\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\ref\allhlepidrash.dll
+D:\theo\ERGASIES SXOLHS\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\bin\Debug\net6.0-windows\allhlepidrash.exe
+D:\theo\ERGASIES SXOLHS\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\bin\Debug\net6.0-windows\allhlepidrash.deps.json
+D:\theo\ERGASIES SXOLHS\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\bin\Debug\net6.0-windows\allhlepidrash.runtimeconfig.json
+D:\theo\ERGASIES SXOLHS\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\bin\Debug\net6.0-windows\allhlepidrash.dll
+D:\theo\ERGASIES SXOLHS\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\bin\Debug\net6.0-windows\allhlepidrash.pdb
+D:\theo\ERGASIES SXOLHS\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Form1.resources
+D:\theo\ERGASIES SXOLHS\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Form10.resources
+D:\theo\ERGASIES SXOLHS\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Form11.resources
+D:\theo\ERGASIES SXOLHS\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Form12.resources
+D:\theo\ERGASIES SXOLHS\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Form13.resources
+D:\theo\ERGASIES SXOLHS\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Form2.resources
+D:\theo\ERGASIES SXOLHS\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Form3.resources
+D:\theo\ERGASIES SXOLHS\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Form4.resources
+D:\theo\ERGASIES SXOLHS\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Form5.resources
+D:\theo\ERGASIES SXOLHS\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Form6.resources
+D:\theo\ERGASIES SXOLHS\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Form7.resources
+D:\theo\ERGASIES SXOLHS\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Form8.resources
+D:\theo\ERGASIES SXOLHS\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Form9.resources
+D:\theo\ERGASIES SXOLHS\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Properties.Resources.resources
+D:\theo\ERGASIES SXOLHS\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.csproj.GenerateResource.cache
+D:\theo\ERGASIES SXOLHS\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.GeneratedMSBuildEditorConfig.editorconfig
+D:\theo\ERGASIES SXOLHS\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.AssemblyInfoInputs.cache
+D:\theo\ERGASIES SXOLHS\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.AssemblyInfo.cs
+D:\theo\ERGASIES SXOLHS\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.csproj.CoreCompileInputs.cache
+D:\theo\ERGASIES SXOLHS\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.dll
+D:\theo\ERGASIES SXOLHS\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\refint\allhlepidrash.dll
+D:\theo\ERGASIES SXOLHS\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.pdb
+D:\theo\ERGASIES SXOLHS\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.genruntimeconfig.cache
+D:\theo\ERGASIES SXOLHS\ALLHLEPIDRASH\TELIKH\allhlepidrash\allhlepidrash\obj\Debug\net6.0-windows\ref\allhlepidrash.dll
